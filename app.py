@@ -24,4 +24,4 @@ if st.session_state["step1"]:
 
     if st.session_state["step2"]:
         st.header("🚨 WRONG! YOU HUMAN! 🚨")
-        st.image("https://github.com/antonioarbues/ef-challenge/blob/master/terminator.gif")
+        # st.image("https://github.com/antonioarbues/ef-challenge/blob/master/terminator.gif")
